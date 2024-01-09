@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Gym A",
+      "location": "City Center",
+      "amenities": ["Cardio Equipment", "Weight Training Area", "Group Classes"],
+      "membershipTypes": ["Basic", "Premium", "VIP"],
+      "prices": [50.99, 69.99, 89.99]
+    },
+    {
+      "id": 2,
+      "name": "Gym B",
+      "location": "Suburbia",
+      "amenities": ["Pool", "Sauna", "Basketball Court"],
+      "membershipTypes": ["Standard", "Gold", "Platinum"],
+      "prices": [59.99, 79.99, 99.99]
+    },
+    {
+      "id": 3,
+      "name": "Gym C",
+      "location": "Downtown",
+      "amenities": ["Yoga Studio", "Cycling Studio", "Personal Training"],
+      "membershipTypes": ["Basic", "Pro", "Elite"],
+      "prices": [45.99, 64.99, 84.99]
+    }
+  ]

@@ -1,0 +1,12 @@
+.header-style{
+    display: flex;
+    gap: 70%;
+    margin-left:30px;
+    border-bottom: 1px solid gray;
+    border-radius: 3px;
+    margin-right: 0px;
+}
+.header-style img{
+    margin-top: 20px;
+    margin-right: 0;
+}

@@ -1,0 +1,8 @@
+.courses-style{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.para{
+    border: 10px solid white;
+}

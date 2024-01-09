@@ -1,0 +1,29 @@
+.info-style{
+    display: flex;
+    gap: 50%;
+    margin-left: 30px;
+}
+
+.nameStyle img{
+    width: 50x;
+    height: 50px;
+    margin-top: 10px;
+}
+    
+.nameStyle{
+    display: flex;
+    gap:10px;
+    margin-left: 0px;
+   
+}
+
+.style{
+    justify-content: center;
+    /* border: 10px solid gray; */
+    border-radius: 30px;
+    background-color: lightcyan;
+    margin-left: 30px;
+}
+.footerStyle{
+    margin-left: 0px;
+}

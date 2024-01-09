@@ -1,0 +1,26 @@
+[
+    {
+      "jobTitle": "Software Engineer",
+      "availableJobs": "3 Jobs Available",
+      "jobPic": "../public/icons/accounts.png", 
+      "id":1
+    },
+    {
+      "jobTitle": "Data Scientist",
+      "availableJobs":"5 Jobs Available",
+      "jobPic": "../public/icons/creative.png",
+      "id":2
+    },
+    {
+      "jobTitle": "Graphic Designer",
+      "availableJobs": "7 Jobs Available",
+      "jobPic": "../public/icons/chip.png",
+      "id":3
+    },
+    {
+      "jobTitle": "Marketing Specialist",
+      "availableJobs": "10 Jobs Available",
+      "jobPic": "../public/icons/marketing.png",
+      "id":4
+    }
+  ]

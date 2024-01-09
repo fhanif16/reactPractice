@@ -1,0 +1,48 @@
+
+[
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "picture": "https://media.gettyimages.com/id/1339359625/photo/buenos-aires-argentina-lionel-messi-of-argentina-celebrates-after-scoring-the-opening-goal.jpg?s=612x612&w=0&k=20&c=uwOI6Xi4nhosUSeWRJYpcH-Jvef6N9lZAk41mknSzzs=",
+      "price":100000000,
+      "goals":700
+    },
+    {
+      "id": 2,
+      "name": "Paulo Dybala",
+      "picture": "https://media.gettyimages.com/id/1400492191/photo/london-england-paulo-dybala-of-argentina-celebrates-after-scoring-their-teams-third-goal.jpg?s=612x612&w=0&k=20&c=eI4bxSXHwfkluSDfKvbrHkV3Ez42DYQ4NsFU-WOCI1s=",
+      "price":50000000,
+      "goals":50
+    },
+    {
+      "id": 3,
+      "name": "Emiliano Martinez",
+      "picture": "https://media.gettyimages.com/id/1450137434/photo/lusail-city-qatar-emiliano-martinez-of-argentina-celebrates-after-saving-the-second-penalty.jpg?s=612x612&w=0&k=20&c=r1LmezdesiJI4ovoYFGqOoRSKTkqa4tbLgslRQujM50=",
+      "price":5000000,
+      "goals":30
+    },
+    {
+      "id": 4,
+      "name": "Angel Di Maria",
+      "picture": "https://media.gettyimages.com/id/1457059018/photo/lusail-city-qatar-angel-di-maria-of-argentina-celebrates-after-scoring-the-teams-second-goal.jpg?s=612x612&w=0&k=20&c=JBlnKH3vZPVlD1UGaeT4gEYjSQEWjroLyLus38bZjH4=",
+      "price":60000000,
+      "goals":300
+    },
+    {
+      "id": 5,
+      "name": "Enzo Fernandez",
+      "picture": "https://media.gettyimages.com/id/1450131846/photo/lusail-city-qatar-enzo-fernandez-of-argentina-celebrates-the-teams-third-goal-scored-by.jpg?s=612x612&w=0&k=20&c=kg1tWont4JW8YbLrdMZfTBhfAzeX2jn4bxzI7RdJfmU=",
+      "price":50000000,
+      "goals":250
+    },
+    {
+      "id": 6,
+      "name": "Cristian Romero",
+      "picture": "https://media.gettyimages.com/id/1400606916/photo/london-england-cristian-romero-of-argentina-looks-on-prior-to-the-2022-finalissima-match.jpg?s=612x612&w=0&k=20&c=o32GGIo13499-T6ErNGdhQQZz8Lusu4k254-eo6Skt0=",
+      "price":50000000,
+      "goals":250
+    }
+    
+    
+
+  ]

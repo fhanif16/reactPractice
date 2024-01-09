@@ -1,0 +1,27 @@
+.header-style{
+    display: flex;
+    margin: 30px 5px;
+    gap: 70%;
+    border: 10px solid black;
+    background-color: black;
+
+   
+}
+
+
+.header-style img{
+    width: 100px;
+    margin-left: 20px;
+}
+
+.nav-style a {
+    margin-left: 10px;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+
+.nav-style a:hover{
+    background-color: chocolate;
+}

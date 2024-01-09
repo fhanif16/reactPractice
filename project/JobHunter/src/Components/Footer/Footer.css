@@ -1,0 +1,9 @@
+.footer-style{
+   display: grid;
+   grid-template-columns: repeat(5 , 1fr);
+   margin-top: 40px;
+   margin-left: 2px;
+   background-color: black;
+   color: white;
+
+}

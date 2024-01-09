@@ -1,0 +1,16 @@
+.menu img{
+    width:400px;
+    height: 400px;
+}
+.menu{
+    display: grid;
+  grid-template-columns: auto auto;
+  
+  
+  
+   
+}
+
+.card{
+    margin: 10px;
+}

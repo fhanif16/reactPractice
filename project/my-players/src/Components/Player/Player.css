@@ -1,0 +1,16 @@
+.player-style{
+    border: 10px solid gainsboro;
+    border-radius: 15px;
+    background: skyblue;
+    padding: 30px;
+    
+}
+
+.player-style img{
+    width: 400px;
+    height: 400px;
+}
+
+.player-info{
+    
+}

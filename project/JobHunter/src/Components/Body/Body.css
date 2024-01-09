@@ -1,0 +1,30 @@
+.header-body-style{
+    display: flex;
+    gap: 40%;
+    margin: 10px 5px;
+    padding: 30px;
+   
+    background-color:azure;;
+}
+
+.header-body-style img{
+width: 400px;
+height: 400x;
+flex-shrink: 0;
+}
+
+
+.header-body-style button{
+    background-color: blue;
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+}
+.header-body-style span{
+    color:blueviolet
+}
+.header-body-style h1{
+
+    font-weight: bold;
+    font-size: 40px;
+}

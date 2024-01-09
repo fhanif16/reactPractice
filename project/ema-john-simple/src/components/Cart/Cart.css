@@ -1,0 +1,22 @@
+.cart{
+    background-color: burlywood;
+    padding:25px;
+    position: sticky;
+    top:0;
+}
+
+.cart p{
+    font-size: 17px;
+}
+
+.btn-clear-cart{
+    display: flex;
+    justify-content: space-between;
+    width:90%;
+    height: 56px;
+    background-color: red;
+    border-radius:4px ;
+    color: white;
+    font-size: 21px;
+    align-items: center;
+}

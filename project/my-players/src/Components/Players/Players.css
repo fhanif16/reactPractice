@@ -1,0 +1,12 @@
+.players-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    border: 3px solid gray;
+    margin: 10px;
+    
+}
+
+.players{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+}
